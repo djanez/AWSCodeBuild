@@ -1,1 +1,2 @@
-pytests
+# requirements.txt
+pytest
